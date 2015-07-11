@@ -1,0 +1,59 @@
+
+	-[ general ]-----------------------------------------------------------------
+		title 		: Spacetracks 1.1
+		filename 	: spacetracks.bsp
+		release date	: 27-5-2014
+		
+	-[ credits ]-----------------------------------------------------------------
+		construction: supertanker | supertanker13@gmail.com
+		textures 	: see respective shared_* packages for credits and licenses
+		sounds  	: Mostly from Unvanquished, some from the 
+                                : Freesound project (http://freesound.iua.upf.edu/)
+		thanks to	: All the great Unvanquished devs, artists, and mappers.
+				: Especially kharnov. Because he is awesome.
+					
+	-[ gameplay ]----------------------------------------------------------------
+		game mode	: unvanquished | unvanquished.net
+		players		: 6-16+
+
+	-[ construction ]------------------------------------------------------------
+		build time	: Years (predates Unvanquished)
+		software	: NetRadiant
+		compile time: 
+			: 93 seconds BSP
+                	: 8 seconds VIS
+               		: 10244 seconds LIGHT
+               		: (Core 2 Quad Q6600)
+		compile settings:
+			: bsp: -threads 4 -samplesize 4
+			: vis: -threads 4 -saveprt
+			: light: -fast -lightmapsearchpower 3 -threads 4 -samplesize 4 -shade -patchshadows 
+			:        -samples 5 -bounce 16 -bouncegrid -lightmapsize 1024 -deluxe
+
+                
+	-[ setting ]-----------------------------------------------------------------
+          theme : Intergalactic railyard. Yeah. It's that off-the-wall.
+
+	-[ legal ]-------------------------------------------------------------------
+		This map is licensed under a
+		Creative Commons Attribution-Noncommercial-Share Alike 3.0 License:  
+		http://creativecommons.org/licenses/by-nc-sa/3.0/
+		
+		The following sounds were used from the Freesound project under the 
+		CC Sampling Plus 1.0 License:
+   
+		pempi's elevator_motor.wav (elevator2.wav)
+		
+		The following sounds have been licenced by FisherP under the 
+		Creative Commons Attribution 3.0 license (http://creativecommons.org/licenses/by/3.0/)
+
+		30-60HzHum.wav
+		
+		The following have been released by Pazuzu in the public domain:
+		pazuzu-elemusic.wav
+		
+		The following is made by me and is released under the same license
+		as the map:
+		elemusic.wav
+
+		Map models were made by me and are released under the same license as the map.

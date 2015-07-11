@@ -1,0 +1,8 @@
+{
+    backgroundColor 0.0 0.0 0.0 0.333
+
+    zone {
+        bounds 0 0 0 0 0 0
+        image "minimaps/spacetracks" -2048 -3504 2592 1136
+    }
+}
