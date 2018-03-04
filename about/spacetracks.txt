@@ -36,8 +36,8 @@
 
 	-[ legal ]-------------------------------------------------------------------
 		This map is licensed under a
-		Creative Commons Attribution-Noncommercial-Share Alike 3.0 License:  
-		http://creativecommons.org/licenses/by-nc-sa/3.0/
+		Creative Commons Attribution-Share Alike 3.0 License:
+		https://creativecommons.org/licenses/by-sa/3.0/
 		
 		The following sounds were used from the Freesound project under the 
 		CC Sampling Plus 1.0 License:
