@@ -107,7 +107,7 @@ textures/spacetracks_custom/leave04c_back
 textures/spacetracks_custom/space15_skybox
 {
       surfaceparm noimpact
-      surfaceparm nolightmap
+      // surfaceparm nolightmap
       q3map_nofast
       //q3map_sunExt  .6 .45 .40 50 280 10 1 16
       q3map_surfacelight 20
@@ -123,7 +123,7 @@ textures/spacetracks_custom/e6basicstrip_red_12k
 	q3map_surfacelight 12000
 	surfaceparm noimpact
 	surfaceparm nomarks
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	qer_editorimage textures/spacetracks_custom_src/e6basicstrip_red	
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red
@@ -136,7 +136,7 @@ textures/spacetracks_custom/e6basicstrip_red_2k
 	q3map_surfacelight 2000
 	surfaceparm noimpact
 	surfaceparm nomarks
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	qer_editorimage textures/spacetracks_custom_src/e6basicstrip_red	
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red
@@ -149,7 +149,7 @@ textures/spacetracks_custom/e6basicstrip_white_2k
 	q3map_surfacelight 2000
 	surfaceparm noimpact
 	surfaceparm nomarks
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	qer_editorimage textures/spacetracks_custom_src/e6basicstrip_white	
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white
@@ -162,7 +162,7 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 	q3map_surfacelight 12000
 	surfaceparm noimpact
 	surfaceparm nomarks
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	qer_editorimage textures/spacetracks_custom_src/e6basicstrip_white	
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white
@@ -177,7 +177,7 @@ textures/spacetracks_custom/arealight1
 	qer_editorimage textures/spacetracks_custom_src/e8tinylightblue
 	surfaceparm noimpact
 	surfaceparm nomarks
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	q3map_nofast
 	q3map_lightimage textures/spacetracks_custom_src/e8tinylightblue
 	q3map_surfacelight 44
@@ -618,7 +618,7 @@ textures/spacetracks_custom/so-duh_nonsolid
 
 textures/spacetracks_custom/monitor1
 {
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	q3map_surfacelight 40
 	qer_editorimage textures/spacetracks_custom_src/monitor1
 	{
@@ -629,7 +629,7 @@ textures/spacetracks_custom/monitor1
 
 textures/spacetracks_custom/monitor2
 {
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	q3map_surfacelight 40
 	qer_editorimage textures/spacetracks_custom_src/monitor2
 	{
@@ -640,7 +640,7 @@ textures/spacetracks_custom/monitor2
 
 textures/spacetracks_custom/tv
 {
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	qer_editorimage textures/spacetracks_custom_src/kztv_ad2
 	{
 		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2.jpg textures/spacetracks_custom_src/spacetracks.jpg textures/spacetracks_custom_src/spacetracks.jpg textures/spacetracks_custom_src/stannum_blue.jpg  textures/spacetracks_custom_src/stannum_blue.jpg textures/spacetracks_custom_src/mg_ad1.jpg textures/spacetracks_custom_src/mg_ad1.jpg textures/spacetracks_custom_src/stannum_blue.jpg	
@@ -700,7 +700,7 @@ textures/spacetracks_custom/inner_tv
 
 textures/spacetracks_custom/stannum_timetable
 {	
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	q3map_surfacelight 90
 	qer_editorimage textures/spacetracks_custom_src/stannum_timetable
 	{
@@ -711,7 +711,7 @@ textures/spacetracks_custom/stannum_timetable
 
 textures/spacetracks_custom/stannum_depart1
 {
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	q3map_surfacelight 90
 	qer_editorimage textures/spacetracks_custom_src/stannum_depart1
 	{
@@ -747,7 +747,7 @@ textures/spacetracks_custom/screen2
 textures/spacetracks_custom/sn_s
 {
 	qer_editorimage textures/spacetracks_custom_src/mat1
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	surfaceparm nonsolid
 	{
 		map textures/spacetracks_custom_src/mat1
@@ -760,7 +760,7 @@ textures/spacetracks_custom/sn_s
 textures/spacetracks_custom/mirror
 {
 	qer_editorimage textures/spacetracks_custom_src/scratchglass
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	portal
 	{
 		map textures/spacetracks_custom_src/scratchglass
@@ -784,7 +784,7 @@ textures/spacetracks_custom/pipe
 
 textures/spacetracks_custom/khalsacola
 {
-	//surfaceparm nolightmap
+	//// surfaceparm nolightmap
 	//q3map_surfacelight  800
 	//q3map_lightRGB      0.043 0.061 0.071
 	qer_editorimage textures/spacetracks_custom_src/khalsacola
@@ -795,7 +795,7 @@ textures/spacetracks_custom/khalsacola
 
 textures/spacetracks_custom/trembru
 {
-	//surfaceparm nolightmap
+	//// surfaceparm nolightmap
 	//q3map_surfacelight  800
 	//q3map_lightRGB      0.043 0.061 0.071
 	qer_editorimage textures/spacetracks_custom_src/trembru
@@ -806,7 +806,7 @@ textures/spacetracks_custom/trembru
 
 textures/spacetracks_custom/vita-watar
 {
-	//surfaceparm nolightmap
+	//// surfaceparm nolightmap
 	//q3map_surfacelight  800
 	//q3map_lightRGB      0.124971 0.829404 0.973266
 	qer_editorimage textures/spacetracks_custom_src/vita-watar
@@ -817,7 +817,7 @@ textures/spacetracks_custom/vita-watar
 
 textures/spacetracks_custom/so-duh
 {
-	//surfaceparm nolightmap
+	//// surfaceparm nolightmap
 	//q3map_surfacelight  800
 	//q3map_lightRGB      0.124971 0.973266 0.420554
 	qer_editorimage textures/spacetracks_custom_src/so-duh
@@ -998,7 +998,7 @@ textures/spacetracks_custom/sky08
 	q3map_lightRGB 1.0 0.887785 0.70264
 
 	surfaceparm noimpact
-	surfaceparm nolightmap
+	// surfaceparm nolightmap
 	surfaceparm sky
 
 	skyparms env/shared_space_src/sky08 - -
