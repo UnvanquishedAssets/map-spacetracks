@@ -1,3 +1,4 @@
+res-ambient
 tex-ex
 tex-exm
 tex-pk01

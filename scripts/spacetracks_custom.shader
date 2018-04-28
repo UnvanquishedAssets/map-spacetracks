@@ -780,52 +780,6 @@ textures/spacetracks_custom/pipe
 	specularMap	textures/spacetracks_custom_src/p_01_s
 }
 
-// soda machines
-
-textures/spacetracks_custom/khalsacola
-{
-	//// surfaceparm nolightmap
-	//q3map_surfacelight  800
-	//q3map_lightRGB      0.043 0.061 0.071
-	qer_editorimage textures/spacetracks_custom_src/khalsacola
-	diffuseMap	textures/spacetracks_custom_src/khalsacola
-	specularMap     textures/spacetracks_custom_src/khalsacola_s
-	glowMap		textures/spacetracks_custom_src/khalsacola_g
-}
-
-textures/spacetracks_custom/trembru
-{
-	//// surfaceparm nolightmap
-	//q3map_surfacelight  800
-	//q3map_lightRGB      0.043 0.061 0.071
-	qer_editorimage textures/spacetracks_custom_src/trembru
-	diffuseMap	textures/spacetracks_custom_src/trembru
-	specularMap     textures/spacetracks_custom_src/trembru_s
-	glowMap		textures/spacetracks_custom_src/trembru_g
-}
-
-textures/spacetracks_custom/vita-watar
-{
-	//// surfaceparm nolightmap
-	//q3map_surfacelight  800
-	//q3map_lightRGB      0.124971 0.829404 0.973266
-	qer_editorimage textures/spacetracks_custom_src/vita-watar
-	diffuseMap	textures/spacetracks_custom_src/vita-watar
-	specularMap     textures/spacetracks_custom_src/vita-watar_s
-	glowMap		textures/spacetracks_custom_src/vita-watar_g
-}
-
-textures/spacetracks_custom/so-duh
-{
-	//// surfaceparm nolightmap
-	//q3map_surfacelight  800
-	//q3map_lightRGB      0.124971 0.973266 0.420554
-	qer_editorimage textures/spacetracks_custom_src/so-duh
-	diffuseMap	textures/spacetracks_custom_src/so-duh
-	specularMap     textures/spacetracks_custom_src/so-duh_s
-	glowMap		textures/spacetracks_custom_src/so-duh_g
-}
-
 // other nonsolid
 // copied from trak5
 
