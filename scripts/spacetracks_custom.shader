@@ -14,11 +14,10 @@ textures/spacetracks_custom/glass2
 	}
 }
 
-
 // grate
 textures/spacetracks_pk02/floor10
 {
-	qer_editorImage     textures/spacetracks_pk02_src/pk02_floor10_C
+	qer_editorImage     textures/spacetracks_pk02_src/pk02_floor10_d
 	qer_trans           0.50
 
 	cull                none
@@ -26,16 +25,15 @@ textures/spacetracks_pk02/floor10
 	surfaceparm         trans
 	surfaceparm 	    alphashadow
 	{
-		map       textures/spacetracks_pk02_src/pk02_floor10_C
+		map       textures/spacetracks_pk02_src/pk02_floor10_d
 		stage     diffuseMap
 		alphaFunc GE128
 	}
-	normalMap           textures/spacetracks_pk02_src/pk02_floor10_N
-	specularMap         textures/spacetracks_pk02_src/pk02_floor10_S
+	normalMap           textures/spacetracks_pk02_src/pk02_floor10_n
+	specularMap         textures/spacetracks_pk02_src/pk02_floor10_s
 }
 
 //****LEAVES****//
-
 
 // ----------------------------------------------------------------------
 textures/spacetracks_custom/leave01b		// fern 2
@@ -103,7 +101,6 @@ textures/spacetracks_custom/leave04c_back
 
 //****SKYBOX****//
 
-
 textures/spacetracks_custom/space15_skybox
 {
       surfaceparm noimpact
@@ -114,7 +111,6 @@ textures/spacetracks_custom/space15_skybox
       q3map_lightmapFilterRadius 0 2
       skyparms env/spacetracks/space15 - -
 }
-
 
 // light bars
 
@@ -249,7 +245,6 @@ textures/spacetracks_custom/magazine2
 	}
 }
 
-
 textures/spacetracks_custom/welcome
 {
 	qer_editorimage textures/spacetracks_custom_src/welcome
@@ -329,8 +324,6 @@ textures/spacetracks_custom/sign_cabin4
 		blendfunc filter
 	}
 }
-
-
 
 textures/spacetracks_custom/sign_cabin5
 {
@@ -428,8 +421,6 @@ textures/spacetracks_custom/sign_mens
 	}
 }
 
-
-
 textures/spacetracks_custom/dock1
 {
 	qer_editorimage textures/spacetracks_custom_src/dock1
@@ -446,7 +437,6 @@ textures/spacetracks_custom/dock1
 	}
 }
 
-
 textures/spacetracks_custom/sign_reactor
 {
 	qer_editorimage textures/spacetracks_custom_src/sign_reactor
@@ -462,7 +452,6 @@ textures/spacetracks_custom/sign_reactor
 		blendfunc filter
 	}
 }
-
 
 textures/spacetracks_custom/jher_flood_d_blood1
 {
@@ -515,7 +504,6 @@ textures/spacetracks_custom/steam_decal
 	}
 }
 
-
 textures/spacetracks_custom/waste_decal
 {
 	surfaceparm noimpact
@@ -554,8 +542,6 @@ textures/spacetracks_custom/plasma_decal
 	}
 }
 
-
-
 textures/spacetracks_custom/jher_flood_d_blood3
 {
 	surfaceparm noimpact
@@ -565,52 +551,6 @@ textures/spacetracks_custom/jher_flood_d_blood3
 	{
 		map textures/spacetracks_custom_src/jher_flood_d_blood3
 		blendfunc filter
-	}
-}
-
-
-textures/spacetracks_custom/trembru_nonsolid
-{
-	surfaceparm nonsolid
-	qer_editorimage textures/spacetracks_custom_src/trembru
-	{
-		map textures/spacetracks_custom_src/trembru
-		rgbGen identity
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		rgbGen identity
-	}
-}
-
-textures/spacetracks_custom/vita-watar_nonsolid
-{
-	surfaceparm nonsolid
-	qer_editorimage textures/spacetracks_custom_src/vita-watar
-	{
-		map textures/spacetracks_custom_src/vita-watar
-		rgbGen identity
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		rgbGen identity
-	}
-}
-
-textures/spacetracks_custom/so-duh_nonsolid
-{
-	surfaceparm nonsolid
-	qer_editorimage textures/spacetracks_custom_src/so-duh
-	{
-		map textures/spacetracks_custom_src/so-duh
-		rgbGen identity
-	}
-	{
-		map $lightmap
-		blendfunc filter
-		rgbGen identity
 	}
 }
 
@@ -682,7 +622,6 @@ textures/spacetracks_custom/kztv2
 	}
 }
 
-
 textures/spacetracks_custom/inner_tv
 {
 	qer_editorimage textures/spacetracks_custom_src/portal1
@@ -696,7 +635,6 @@ textures/spacetracks_custom/inner_tv
 		rgbGen wave square 1 .4 .4 .4 
 	}
 }
-
 
 textures/spacetracks_custom/stannum_timetable
 {	
@@ -741,7 +679,6 @@ textures/spacetracks_custom/screen2
 		depthFunc equal
 	}
 }
-
 
 // you don't want to know.
 textures/spacetracks_custom/sn_s
@@ -838,8 +775,6 @@ textures/spacetracks_custom/light01_off
 	normalMap           textures/shared_pk02_src/light01_n
 	specularMap         textures/shared_pk02_src/light01_s
 }
-
-
 
 textures/spacetracks_custom/light01_orange_8000
 {
