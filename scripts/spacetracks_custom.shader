@@ -824,7 +824,7 @@ textures/spacetracks_custom/base1c_nonsolid
 // custom lights
 textures/spacetracks_custom/light01_blue_8000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  8000
 	q3map_lightRGB      0.482 0.702 1.000
@@ -843,7 +843,7 @@ textures/spacetracks_custom/light01_blue_8000
 
 textures/spacetracks_custom/light01_blue_12000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  12000
 	q3map_lightRGB      0.482 0.702 1.000
@@ -862,7 +862,7 @@ textures/spacetracks_custom/light01_blue_12000
 
 textures/spacetracks_custom/light01_off
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	diffuseMap          textures/shared_pk02_src/light01_d
 	normalMap           textures/shared_pk02_src/light01_n
@@ -871,7 +871,7 @@ textures/spacetracks_custom/light01_off
 
 textures/spacetracks_custom/light01_orange_8000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  8000
 	q3map_lightRGB      1.000 0.729 0.376
@@ -890,7 +890,7 @@ textures/spacetracks_custom/light01_orange_8000
 
 textures/spacetracks_custom/light01_orange_12000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  12000
 	q3map_lightRGB      1.000 0.729 0.376
@@ -909,7 +909,7 @@ textures/spacetracks_custom/light01_orange_12000
 
 textures/spacetracks_custom/light01_red_8000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  8000
 	q3map_lightRGB      1.000 0.424 0.380
@@ -928,7 +928,7 @@ textures/spacetracks_custom/light01_red_8000
 
 textures/spacetracks_custom/light01_red_12000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  12000
 	q3map_lightRGB      1.000 0.424 0.380
@@ -947,7 +947,7 @@ textures/spacetracks_custom/light01_red_12000
 
 textures/spacetracks_custom/light01_white_8000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  8000
 	q3map_lightRGB      1.000 1.000 1.000
@@ -960,7 +960,7 @@ textures/spacetracks_custom/light01_white_8000
 
 textures/spacetracks_custom/light01_white_12000
 {
-	qer_editorImage     textures/shared_pk02_src/light01_p
+	qer_editorImage     textures/shared_pk02_src/light01_d
 
 	q3map_surfacelight  12000
 	q3map_lightRGB      1.000 1.000 1.000
@@ -974,7 +974,7 @@ textures/spacetracks_custom/light01_white_12000
 // sky
 textures/spacetracks_custom/sky08
 {
-	qer_editorimage textures/shared_space_src/sky08_p
+	qer_editorimage textures/shared_space_src/sky08_d
 
 	q3map_skylight 75 4
 	q3map_lightRGB 1.0 0.887785 0.70264
