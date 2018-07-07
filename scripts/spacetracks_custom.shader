@@ -1,6 +1,6 @@
 textures/spacetracks_custom/glass2
 {
-	qer_editorImage textures/spacetracks_custom_src/darkglass_p
+	qer_editorImage textures/spacetracks_custom_src/darkglass_d
 	{
 		map textures/spacetracks_custom_src/darkglass_d
 		rgbGen identity
@@ -19,7 +19,7 @@ textures/spacetracks_custom/glass2
 // ----------------------------------------------------------------------
 textures/spacetracks_custom/leave01b		// fern 2
 {
-	qer_editorImage textures/spacetracks_custom_src/leave01b_p
+	qer_editorImage textures/spacetracks_custom_src/leave01b_d
 	q3map_cloneShader textures/spacetracks_custom/leave01b_back
 	q3map_vertexScale 1.5
 	qer_alphaFunc greater 0.5
@@ -51,7 +51,7 @@ textures/spacetracks_custom/leave01b_back
 // ----------------------------------------------------------------------
 textures/spacetracks_custom/leave04c		// Shiney leave
 {
-	qer_editorImage textures/spacetracks_custom_src/leave04c_p
+	qer_editorImage textures/spacetracks_custom_src/leave04c_d
 	q3map_cloneShader textures/spacetracks_custom/leave04c_back
 	q3map_vertexScale 1.5
 	qer_alphaFunc greater 0.5
@@ -101,7 +101,7 @@ textures/spacetracks_custom/e6basicstrip_red_12k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_p
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -114,7 +114,7 @@ textures/spacetracks_custom/e6basicstrip_red_2k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_p
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -127,7 +127,7 @@ textures/spacetracks_custom/e6basicstrip_white_2k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_p
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white_d
 		rgbGen identity
@@ -140,7 +140,7 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_p
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white_d
 		rgbGen identity
@@ -151,7 +151,7 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 
 textures/spacetracks_custom/arealight1
 {
-	qer_editorImage textures/spacetracks_custom_src/e8tinylightblue_p
+	qer_editorImage textures/spacetracks_custom_src/e8tinylightblue_d
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
@@ -167,7 +167,7 @@ textures/spacetracks_custom/arealight1
 //****Decal-like textures****//
 textures/spacetracks_custom/authonly
 {
-	qer_editorImage textures/spacetracks_custom_src/authonly_p
+	qer_editorImage textures/spacetracks_custom_src/authonly_d
 	polygonOffset
 	{
 		map textures/spacetracks_custom_src/authonly_d
@@ -182,7 +182,7 @@ textures/spacetracks_custom/authonly
 
 textures/spacetracks_custom/osha_s
 {
-	qer_editorImage textures/spacetracks_custom_src/osha_p
+	qer_editorImage textures/spacetracks_custom_src/osha_d
 	polygonOffset
 	{
 		map textures/spacetracks_custom_src/osha_d
@@ -197,7 +197,7 @@ textures/spacetracks_custom/osha_s
 
 textures/spacetracks_custom/magazine1
 {
-	qer_editorImage textures/spacetracks_custom_src/magazine1_p
+	qer_editorImage textures/spacetracks_custom_src/magazine1_d
 	polygonOffset
 	{
 		map textures/spacetracks_custom_src/magazine1_d
@@ -213,7 +213,7 @@ textures/spacetracks_custom/magazine1
 
 textures/spacetracks_custom/magazine2
 {
-	qer_editorImage textures/spacetracks_custom_src/magazine2_p
+	qer_editorImage textures/spacetracks_custom_src/magazine2_d
 	polygonOffset
 	{
 		map textures/spacetracks_custom_src/magazine2_d
@@ -228,7 +228,7 @@ textures/spacetracks_custom/magazine2
 
 textures/spacetracks_custom/welcome
 {
-	qer_editorImage textures/spacetracks_custom_src/welcome_p
+	qer_editorImage textures/spacetracks_custom_src/welcome_d
 	polygonOffset
 	{
 		map textures/spacetracks_custom_src/welcome_d
@@ -243,7 +243,7 @@ textures/spacetracks_custom/welcome
 
 textures/spacetracks_custom/pinboard_s
 {
-	qer_editorImage textures/spacetracks_custom_src/pinboard_p
+	qer_editorImage textures/spacetracks_custom_src/pinboard_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -259,7 +259,7 @@ textures/spacetracks_custom/pinboard_s
 
 textures/spacetracks_custom/sign_lounge
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_lounge_p
+	qer_editorImage textures/spacetracks_custom_src/sign_lounge_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -275,7 +275,7 @@ textures/spacetracks_custom/sign_lounge
 
 textures/spacetracks_custom/what_s
 {
-	qer_editorImage textures/spacetracks_custom_src/what_p
+	qer_editorImage textures/spacetracks_custom_src/what_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -292,7 +292,7 @@ textures/spacetracks_custom/what_s
 
 textures/spacetracks_custom/sign_cabin4
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_cabin4_p
+	qer_editorImage textures/spacetracks_custom_src/sign_cabin4_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -308,7 +308,7 @@ textures/spacetracks_custom/sign_cabin4
 
 textures/spacetracks_custom/sign_cabin5
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_cabin5_p
+	qer_editorImage textures/spacetracks_custom_src/sign_cabin5_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -324,7 +324,7 @@ textures/spacetracks_custom/sign_cabin5
 
 textures/spacetracks_custom/sign_dock2
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_dock2_p
+	qer_editorImage textures/spacetracks_custom_src/sign_dock2_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -340,7 +340,7 @@ textures/spacetracks_custom/sign_dock2
 
 textures/spacetracks_custom/sign_docks3_7
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_docks3_7_p
+	qer_editorImage textures/spacetracks_custom_src/sign_docks3_7_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -356,7 +356,7 @@ textures/spacetracks_custom/sign_docks3_7
 
 textures/spacetracks_custom/sign_reactor
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_reactor_p
+	qer_editorImage textures/spacetracks_custom_src/sign_reactor_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -372,7 +372,7 @@ textures/spacetracks_custom/sign_reactor
 
 textures/spacetracks_custom/sign_womens
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_womens_p
+	qer_editorImage textures/spacetracks_custom_src/sign_womens_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -388,7 +388,7 @@ textures/spacetracks_custom/sign_womens
 
 textures/spacetracks_custom/sign_mens
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_mens_p
+	qer_editorImage textures/spacetracks_custom_src/sign_mens_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -404,7 +404,7 @@ textures/spacetracks_custom/sign_mens
 
 textures/spacetracks_custom/dock1
 {
-	qer_editorImage textures/spacetracks_custom_src/dock1_p
+	qer_editorImage textures/spacetracks_custom_src/dock1_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -420,7 +420,7 @@ textures/spacetracks_custom/dock1
 
 textures/spacetracks_custom/sign_reactor
 {
-	qer_editorImage textures/spacetracks_custom_src/sign_reactor_p
+	qer_editorImage textures/spacetracks_custom_src/sign_reactor_d
 	polygonOffset
 	surfaceparm nonsolid
 	{
@@ -439,7 +439,7 @@ textures/spacetracks_custom/sign_reactor
 textures/spacetracks_custom/trembru_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/trembru_p
+	qer_editorImage textures/shared_ambient_src/soda_machines/trembru_d
 	{
 		map textures/shared_ambient_src/soda_machines/trembru_d
 		rgbGen identity
@@ -454,7 +454,7 @@ textures/spacetracks_custom/trembru_nonsolid
 textures/spacetracks_custom/vita-watar_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/vita-watar_p
+	qer_editorImage textures/shared_ambient_src/soda_machines/vita-watar_d
 	{
 		map textures/shared_ambient_src/soda_machines/vita-watar_d
 		rgbGen identity
@@ -469,7 +469,7 @@ textures/spacetracks_custom/vita-watar_nonsolid
 textures/spacetracks_custom/so-duh_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/so-duh_p
+	qer_editorImage textures/shared_ambient_src/soda_machines/so-duh_d
 	{
 		map textures/shared_ambient_src/soda_machines/so-duh_d
 		rgbGen identity
@@ -563,7 +563,7 @@ textures/spacetracks_custom/monitor1
 {
 	// surfaceparm nolightmap
 	q3map_surfacelight 40
-	qer_editorImage textures/spacetracks_custom_src/monitor1_p
+	qer_editorImage textures/spacetracks_custom_src/monitor1_d
 	{
 		map textures/spacetracks_custom_src/monitor1_d
 		rgbGen identityLighting
@@ -574,7 +574,7 @@ textures/spacetracks_custom/monitor2
 {
 	// surfaceparm nolightmap
 	q3map_surfacelight 40
-	qer_editorImage textures/spacetracks_custom_src/monitor2_p
+	qer_editorImage textures/spacetracks_custom_src/monitor2_d
 	{
 		map textures/spacetracks_custom_src/monitor2_d
 		rgbGen identityLighting
@@ -584,7 +584,7 @@ textures/spacetracks_custom/monitor2
 textures/spacetracks_custom/tv
 {
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_p
+	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
 	{
 		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg  textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg	
 		rgbGen identityLighting
@@ -594,7 +594,7 @@ textures/spacetracks_custom/tv
 
 textures/spacetracks_custom/kztv
 {
-	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_p
+	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
 	{
 		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg	
 		rgbGen wave noise 0.9 1 0 10
@@ -608,7 +608,7 @@ textures/spacetracks_custom/kztv
 
 textures/spacetracks_custom/kztv2
 {
-	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_p
+	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
 	{
 		map textures/spacetracks_custom_src/portal1_d
 		rgbGen wave inverseSawtooth 0.7 0.2 0.4 1
@@ -627,7 +627,7 @@ textures/spacetracks_custom/kztv2
 
 textures/spacetracks_custom/inner_tv
 {
-	qer_editorImage textures/spacetracks_custom_src/portal1_p
+	qer_editorImage textures/spacetracks_custom_src/portal1_d
 	{
 		map textures/spacetracks_custom_src/portal1_d
 		rgbGen wave noise 0.9 1 0 10
@@ -643,7 +643,7 @@ textures/spacetracks_custom/stannum_timetable
 {	
 	// surfaceparm nolightmap
 	q3map_surfacelight 90
-	qer_editorImage textures/spacetracks_custom_src/stannum_timetable_p
+	qer_editorImage textures/spacetracks_custom_src/stannum_timetable_d
 	{
 		map textures/spacetracks_custom_src/stannum_timetable_d
 		rgbGen identity
@@ -654,7 +654,7 @@ textures/spacetracks_custom/stannum_depart1
 {
 	// surfaceparm nolightmap
 	q3map_surfacelight 90
-	qer_editorImage textures/spacetracks_custom_src/stannum_depart1_p
+	qer_editorImage textures/spacetracks_custom_src/stannum_depart1_d
 	{
 		map textures/spacetracks_custom_src/stannum_depart1_d
 		rgbGen identity
@@ -663,7 +663,7 @@ textures/spacetracks_custom/stannum_depart1
 
 textures/spacetracks_custom/screen2
 {
-	qer_editorImage textures/spacetracks_custom_src/screen2_border_p
+	qer_editorImage textures/spacetracks_custom_src/screen2_border_d
 	q3map_surfacelight 50
 	{
 		animMap 2 textures/spacetracks_custom_src/pong1_d.jpg textures/spacetracks_custom_src/pong2_d.jpg textures/spacetracks_custom_src/pong3_d.jpg textures/spacetracks_custom_src/pong4_d.jpg textures/spacetracks_custom_src/pong5_d.jpg textures/spacetracks_custom_src/pong6_d.jpg textures/spacetracks_custom_src/pong7_d.jpg textures/spacetracks_custom_src/pong8_d.jpg textures/spacetracks_custom_src/pong8_d.jpg textures/spacetracks_custom_src/pong8_d.jpg 
@@ -684,99 +684,99 @@ textures/spacetracks_custom/screen2
 }
 
 textures/spacetracks_custom/e8base_pink
-{	qer_editorImage textures/spacetracks_custom_src/e8base_pink_p
+{	qer_editorImage textures/spacetracks_custom_src/e8base_pink_d
 	diffuseMap textures/spacetracks_custom_src/e8base_pink_d
 }
 
 textures/spacetracks_custom/heli1
-{	qer_editorImage textures/spacetracks_custom_src/heli1_p
+{	qer_editorImage textures/spacetracks_custom_src/heli1_d
 	diffuseMap textures/spacetracks_custom_src/heli1_d
 }
 
 textures/spacetracks_custom/keyboard3
-{	qer_editorImage textures/spacetracks_custom_src/keyboard3_p
+{	qer_editorImage textures/spacetracks_custom_src/keyboard3_d
 	diffuseMap textures/spacetracks_custom_src/keyboard3_d
 }
 
 textures/spacetracks_custom/controlpanel2
-{	qer_editorImage textures/spacetracks_custom_src/controlpanel2_p
+{	qer_editorImage textures/spacetracks_custom_src/controlpanel2_d
 	diffuseMap textures/spacetracks_custom_src/controlpanel2_d
 }
 
 textures/spacetracks_custom/keyboard2
-{	qer_editorImage textures/spacetracks_custom_src/keyboard2_p
+{	qer_editorImage textures/spacetracks_custom_src/keyboard2_d
 	diffuseMap textures/spacetracks_custom_src/keyboard2_d
 }
 
 textures/spacetracks_custom/painting
-{	qer_editorImage textures/spacetracks_custom_src/painting_p
+{	qer_editorImage textures/spacetracks_custom_src/painting_d
 	diffuseMap textures/spacetracks_custom_src/painting_d
 }
 
 textures/spacetracks_custom/contact_spine
-{	qer_editorImage textures/spacetracks_custom_src/contact_spine_p
+{	qer_editorImage textures/spacetracks_custom_src/contact_spine_d
 	diffuseMap textures/spacetracks_custom_src/contact_spine_d
 }
 
 textures/spacetracks_custom/tremmapping_spine
-{	qer_editorImage textures/spacetracks_custom_src/tremmapping_spine_p
+{	qer_editorImage textures/spacetracks_custom_src/tremmapping_spine_d
 	diffuseMap textures/spacetracks_custom_src/tremmapping_spine_d
 }
 
 textures/spacetracks_custom/spine_blue
-{	qer_editorImage textures/spacetracks_custom_src/spine_blue_p
+{	qer_editorImage textures/spacetracks_custom_src/spine_blue_d
 	diffuseMap textures/spacetracks_custom_src/spine_blue_d
 }
 
 textures/spacetracks_custom/perl_spine
-{	qer_editorImage textures/spacetracks_custom_src/perl_spine_p
+{	qer_editorImage textures/spacetracks_custom_src/perl_spine_d
 	diffuseMap textures/spacetracks_custom_src/perl_spine_d
 }
 
 textures/spacetracks_custom/spine_red
-{	qer_editorImage textures/spacetracks_custom_src/spine_red_p
+{	qer_editorImage textures/spacetracks_custom_src/spine_red_d
 	diffuseMap textures/spacetracks_custom_src/spine_red_d
 }
 
 textures/spacetracks_custom/spine_orange
-{	qer_editorImage textures/spacetracks_custom_src/spine_orange_p
+{	qer_editorImage textures/spacetracks_custom_src/spine_orange_d
 	diffuseMap textures/spacetracks_custom_src/spine_orange_d
 }
 
 textures/spacetracks_custom/ircop_manual
-{	qer_editorImage textures/spacetracks_custom_src/ircop_manual_p
+{	qer_editorImage textures/spacetracks_custom_src/ircop_manual_d
 	diffuseMap textures/spacetracks_custom_src/ircop_manual_d
 }
 
 textures/spacetracks_custom/spine_green
-{	qer_editorImage textures/spacetracks_custom_src/spine_green_p
+{	qer_editorImage textures/spacetracks_custom_src/spine_green_d
 	diffuseMap textures/spacetracks_custom_src/spine_green_d
 }
 
 textures/spacetracks_custom/computer_front
-{	qer_editorImage textures/spacetracks_custom_src/computer_front_p
+{	qer_editorImage textures/spacetracks_custom_src/computer_front_d
 	diffuseMap textures/spacetracks_custom_src/computer_front_d
 }
 
 textures/spacetracks_custom/keyboard1
-{	qer_editorImage textures/spacetracks_custom_src/keyboard1_p
+{	qer_editorImage textures/spacetracks_custom_src/keyboard1_d
 	diffuseMap textures/spacetracks_custom_src/keyboard1_d
 }
 
 textures/spacetracks_custom/puretrem_admin
-{	qer_editorImage textures/spacetracks_custom_src/puretrem_admin_p
+{	qer_editorImage textures/spacetracks_custom_src/puretrem_admin_d
 	diffuseMap textures/spacetracks_custom_src/puretrem_admin_d
 }
 
 textures/spacetracks_custom/tremguide
-{	qer_editorImage textures/spacetracks_custom_src/tremguide_p
+{	qer_editorImage textures/spacetracks_custom_src/tremguide_d
 	diffuseMap textures/spacetracks_custom_src/tremguide_d
 }
 
 // you don't want to know.
 textures/spacetracks_custom/sn_s
 {
-	qer_editorImage textures/spacetracks_custom_src/mat1_p
+	qer_editorImage textures/spacetracks_custom_src/mat1_d
 	// surfaceparm nolightmap
 	surfaceparm nonsolid
 	{
@@ -789,7 +789,7 @@ textures/spacetracks_custom/sn_s
 
 textures/spacetracks_custom/mirror
 {
-	qer_editorImage textures/spacetracks_custom_src/scratchglass_p
+	qer_editorImage textures/spacetracks_custom_src/scratchglass_d
 	// surfaceparm nolightmap
 	portal
 	{
@@ -805,7 +805,7 @@ textures/spacetracks_custom/mirror
 
 textures/spacetracks_custom/pipe
 {
-	qer_editorImage textures/spacetracks_custom_src/p_01_p
+	qer_editorImage textures/spacetracks_custom_src/p_01_d
 	diffuseMap  textures/spacetracks_custom_src/p_01_d
 	specularMap textures/spacetracks_custom_src/p_01_s
 }
