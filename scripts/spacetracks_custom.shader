@@ -31,8 +31,8 @@ textures/spacetracks_custom/leave01b		// fern 2
 		map textures/spacetracks_custom_src/leave01b_d
 		rgbGen vertex
 		depthWrite
-		alphaFunc GE128		
-	}	
+		alphaFunc GE128	
+	}
 }
 
 textures/spacetracks_custom/leave01b_back
@@ -44,8 +44,8 @@ textures/spacetracks_custom/leave01b_back
 	{
 		map textures/spacetracks_custom_src/leave01b_d
 		rgbGen const ( 0.2 0.2 0.2 )
-		alphaFunc GE128		
-	}	
+		alphaFunc GE128	
+	}
 }
 
 // ----------------------------------------------------------------------
@@ -63,8 +63,8 @@ textures/spacetracks_custom/leave04c		// Shiney leave
 		map textures/spacetracks_custom_src/leave04c_d
 		rgbGen vertex
 		depthWrite
-		alphaFunc GE128		
-	}	
+		alphaFunc GE128	
+	}
 }
 
 textures/spacetracks_custom/leave04c_back
@@ -76,8 +76,8 @@ textures/spacetracks_custom/leave04c_back
 	{
 		map textures/spacetracks_custom_src/leave04c_d
 		rgbGen const ( 0.2 0.2 0.2 )
-		alphaFunc GE128		
-	}	
+		alphaFunc GE128	
+	}
 }
 
 //****SKYBOX****//
@@ -101,7 +101,7 @@ textures/spacetracks_custom/e6basicstrip_red_12k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_d
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -114,7 +114,7 @@ textures/spacetracks_custom/e6basicstrip_red_2k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red	_d
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -127,7 +127,7 @@ textures/spacetracks_custom/e6basicstrip_white_2k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_d
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white_d
 		rgbGen identity
@@ -140,7 +140,7 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white	_d
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white_d
 		rgbGen identity
@@ -483,6 +483,7 @@ textures/spacetracks_custom/so-duh_nonsolid
 
 textures/spacetracks_custom/water_decal
 {
+	qer_editorImage textures/spacetracks_custom_src/water_decal_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -502,6 +503,7 @@ textures/spacetracks_custom/water_decal
 
 textures/spacetracks_custom/steam_decal
 {
+	qer_editorImage textures/spacetracks_custom_src/steam_decal_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -521,6 +523,7 @@ textures/spacetracks_custom/steam_decal
 
 textures/spacetracks_custom/waste_decal
 {
+	qer_editorImage textures/spacetracks_custom_src/waste_decal_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -586,7 +589,7 @@ textures/spacetracks_custom/tv
 	// surfaceparm nolightmap
 	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
 	{
-		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg  textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg	
+		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/stannum_blue_d  textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/stannum_blue_d
 		rgbGen identityLighting
 	}
 
@@ -596,13 +599,13 @@ textures/spacetracks_custom/kztv
 {
 	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
 	{
-		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg	
+		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/stannum_blue_d
 		rgbGen wave noise 0.9 1 0 10
 	}
 	{
 		map $lightmap
 		blendfunc filter
-		rgbGen wave square 0.7 .1 .9 0.4 
+		rgbGen wave square 0.7 .1 .9 0.4
 	}
 }
 
@@ -614,14 +617,14 @@ textures/spacetracks_custom/kztv2
 		rgbGen wave inverseSawtooth 0.7 0.2 0.4 1
 	}
 	{
-		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/mg_ad1_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/spacetracks_d.jpg textures/spacetracks_custom_src/stannum_blue_d.jpg	
+		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/stannum_blue_d
 		blendfunc blend
-		alphaGen wave inverseSawtooth 0.4 .2 .3 1.3 
+		alphaGen wave inverseSawtooth 0.4 .2 .3 1.3
 	}
 	{
 		map $lightmap
 		blendfunc filter
-		rgbGen wave square 1 .4 .4 .4 
+		rgbGen wave square 1 .4 .4 .4
 	}
 }
 
@@ -635,12 +638,12 @@ textures/spacetracks_custom/inner_tv
 	{
 		map $lightmap
 		blendfunc filter
-		rgbGen wave square 1 .4 .4 .4 
+		rgbGen wave square 1 .4 .4 .4
 	}
 }
 
 textures/spacetracks_custom/stannum_timetable
-{	
+{
 	// surfaceparm nolightmap
 	q3map_surfacelight 90
 	qer_editorImage textures/spacetracks_custom_src/stannum_timetable_d
@@ -666,7 +669,7 @@ textures/spacetracks_custom/screen2
 	qer_editorImage textures/spacetracks_custom_src/screen2_border_d
 	q3map_surfacelight 50
 	{
-		animMap 2 textures/spacetracks_custom_src/pong1_d.jpg textures/spacetracks_custom_src/pong2_d.jpg textures/spacetracks_custom_src/pong3_d.jpg textures/spacetracks_custom_src/pong4_d.jpg textures/spacetracks_custom_src/pong5_d.jpg textures/spacetracks_custom_src/pong6_d.jpg textures/spacetracks_custom_src/pong7_d.jpg textures/spacetracks_custom_src/pong8_d.jpg textures/spacetracks_custom_src/pong8_d.jpg textures/spacetracks_custom_src/pong8_d.jpg 
+		animMap 2 textures/spacetracks_custom_src/pong1_d textures/spacetracks_custom_src/pong2_d textures/spacetracks_custom_src/pong3_d textures/spacetracks_custom_src/pong4_d textures/spacetracks_custom_src/pong5_d textures/spacetracks_custom_src/pong6_d textures/spacetracks_custom_src/pong7_d textures/spacetracks_custom_src/pong8_d textures/spacetracks_custom_src/pong8_d textures/spacetracks_custom_src/pong8_d
 		rgbGen identity
 	}
 	{
@@ -676,9 +679,9 @@ textures/spacetracks_custom/screen2
 		alphaFunc GE128
 	}
 	{
-		map $lightmap 
+		map $lightmap
 		blendfunc filter
-		tcGen lightmap 
+		tcGen lightmap
 		depthFunc equal
 	}
 }
@@ -974,7 +977,7 @@ textures/spacetracks_custom/light01_white_12000
 // sky
 textures/spacetracks_custom/sky08
 {
-	qer_editorImage textures/shared_space_src/sky08_d
+	qer_editorImage env/shared_space_src/sky08_up
 
 	q3map_skylight 75 4
 	q3map_lightRGB 1.0 0.887785 0.70264
