@@ -232,7 +232,7 @@ textures/spacetracks_custom/welcome
 	}
 }
 
-textures/spacetracks_custom/pinboard_s
+textures/spacetracks_custom/pinboard
 {
 	qer_editorImage textures/spacetracks_custom_src/pinboard_d
 	polygonOffset
