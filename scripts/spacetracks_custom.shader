@@ -475,6 +475,7 @@ textures/spacetracks_custom/so-duh_nonsolid
 textures/spacetracks_custom/water_decal
 {
 	qer_editorImage textures/spacetracks_custom_src/water_decal_d
+	qer_alphaFunc greater 0.5
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -495,6 +496,7 @@ textures/spacetracks_custom/water_decal
 textures/spacetracks_custom/steam_decal
 {
 	qer_editorImage textures/spacetracks_custom_src/steam_decal_d
+	qer_alphaFunc greater 0.5
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -515,6 +517,7 @@ textures/spacetracks_custom/steam_decal
 textures/spacetracks_custom/waste_decal
 {
 	qer_editorImage textures/spacetracks_custom_src/waste_decal_d
+	qer_alphaFunc greater 0.5
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -535,6 +538,7 @@ textures/spacetracks_custom/waste_decal
 textures/spacetracks_custom/plasma_decal
 {
 	qer_editorImage textures/spacetracks_custom_src/plasma_decal_d
+	qer_alphaFunc greater 0.5
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
