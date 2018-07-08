@@ -17,7 +17,8 @@ textures/spacetracks_custom/glass2
 //****LEAVES****//
 
 // ----------------------------------------------------------------------
-textures/spacetracks_custom/leave01b		// fern 2
+// fern 2
+textures/spacetracks_custom/leave01b
 {
 	qer_editorImage textures/spacetracks_custom_src/leave01b_d
 	q3map_cloneShader textures/spacetracks_custom/leave01b_back
@@ -37,6 +38,7 @@ textures/spacetracks_custom/leave01b		// fern 2
 
 textures/spacetracks_custom/leave01b_back
 {
+	qer_editorImage textures/spacetracks_custom_src/leave01b_d
 	surfaceparm trans
 	q3map_invert
 	surfaceparm nonsolid
@@ -49,7 +51,8 @@ textures/spacetracks_custom/leave01b_back
 }
 
 // ----------------------------------------------------------------------
-textures/spacetracks_custom/leave04c		// Shiney leave
+// Shiney leave
+textures/spacetracks_custom/leave04c
 {
 	qer_editorImage textures/spacetracks_custom_src/leave04c_d
 	q3map_cloneShader textures/spacetracks_custom/leave04c_back
@@ -69,6 +72,7 @@ textures/spacetracks_custom/leave04c		// Shiney leave
 
 textures/spacetracks_custom/leave04c_back
 {
+	qer_editorImage textures/spacetracks_custom_src/leave04c_d
 	surfaceparm trans
 	surfaceparm nonsolid
 	q3map_invert
@@ -78,19 +82,6 @@ textures/spacetracks_custom/leave04c_back
 		rgbGen const ( 0.2 0.2 0.2 )
 		alphaFunc GE128	
 	}
-}
-
-//****SKYBOX****//
-
-textures/spacetracks_custom/space15_skybox
-{
-      surfaceparm noimpact
-      // surfaceparm nolightmap
-      q3map_nofast
-      //q3map_sunExt  .6 .45 .40 50 280 10 1 16
-      q3map_surfacelight 20
-      q3map_lightmapFilterRadius 0 2
-      skyparms env/spacetracks/space15 - -
 }
 
 // light bars
@@ -147,7 +138,7 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 	}
 }
 
-//****Hacky light texture****//
+//**** Hacky light texture ****//
 
 textures/spacetracks_custom/arealight1
 {
@@ -543,6 +534,7 @@ textures/spacetracks_custom/waste_decal
 
 textures/spacetracks_custom/plasma_decal
 {
+	qer_editorImage textures/spacetracks_custom_src/plasma_decal_d
 	surfaceparm noimpact
 	surfaceparm nonsolid
 	surfaceparm trans
@@ -774,18 +766,6 @@ textures/spacetracks_custom/puretrem_admin
 textures/spacetracks_custom/tremguide
 {	qer_editorImage textures/spacetracks_custom_src/tremguide_d
 	diffuseMap textures/spacetracks_custom_src/tremguide_d
-}
-
-// you don't want to know.
-textures/spacetracks_custom/sn_s
-{
-	qer_editorImage textures/spacetracks_custom_src/mat1_d
-	// surfaceparm nolightmap
-	surfaceparm nonsolid
-	{
-		map textures/spacetracks_custom_src/mat1_d
-		rgbGen Vertex
-	}
 }
 
 // what is this
