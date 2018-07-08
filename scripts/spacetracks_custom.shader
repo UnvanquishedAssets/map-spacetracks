@@ -430,9 +430,9 @@ textures/spacetracks_custom/sign_reactor
 textures/spacetracks_custom/trembru_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/trembru_d
+	qer_editorImage textures/shared_ambient_src/soda-machines/trembru_d
 	{
-		map textures/shared_ambient_src/soda_machines/trembru_d
+		map textures/shared_ambient_src/soda-machines/trembru_d
 		rgbGen identity
 	}
 	{
@@ -445,9 +445,9 @@ textures/spacetracks_custom/trembru_nonsolid
 textures/spacetracks_custom/vita-watar_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/vita-watar_d
+	qer_editorImage textures/shared_ambient_src/soda-machines/vita-watar_d
 	{
-		map textures/shared_ambient_src/soda_machines/vita-watar_d
+		map textures/shared_ambient_src/soda-machines/vita-watar_d
 		rgbGen identity
 	}
 	{
@@ -460,9 +460,9 @@ textures/spacetracks_custom/vita-watar_nonsolid
 textures/spacetracks_custom/so-duh_nonsolid
 {
 	surfaceparm nonsolid
-	qer_editorImage textures/shared_ambient_src/soda_machines/so-duh_d
+	qer_editorImage textures/shared_ambient_src/soda-machines/so-duh_d
 	{
-		map textures/shared_ambient_src/soda_machines/so-duh_d
+		map textures/shared_ambient_src/soda-machines/so-duh_d
 		rgbGen identity
 	}
 	{
