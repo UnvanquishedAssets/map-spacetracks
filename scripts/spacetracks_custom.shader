@@ -797,17 +797,6 @@ textures/spacetracks_custom/pipe
 	specularMap textures/spacetracks_custom_src/p_01_s
 }
 
-// other nonsolid
-// copied from trak5
-
-textures/spacetracks_custom/base1c_nonsolid
-{
-	surfaceparm nonsolid
-	qer_editorImage     textures/spacetracks_custom_src/base1c_d
-	diffuseMap          textures/spacetracks_custom_src/base1c_d
-	normalMap           textures/spacetracks_custom_src/base1_n
-}
-
 // custom lights
 textures/spacetracks_custom/light01_blue_8000
 {
