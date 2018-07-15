@@ -21,9 +21,9 @@ textures/spacetracks_custom/glass2
 textures/spacetracks_custom/leave01b
 {
 	qer_editorImage textures/spacetracks_custom_src/leave01b_d
+	qer_alphaFunc greater 0.5
 	q3map_cloneShader textures/spacetracks_custom/leave01b_back
 	q3map_vertexScale 1.5
-	qer_alphaFunc greater 0.5
 	surfaceparm alphashadow
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -39,8 +39,8 @@ textures/spacetracks_custom/leave01b
 textures/spacetracks_custom/leave01b_back
 {
 	qer_editorImage textures/spacetracks_custom_src/leave01b_d
-	surfaceparm trans
 	q3map_invert
+	surfaceparm trans
 	surfaceparm nonsolid
 	surfaceparm nomarks
 	{
@@ -55,9 +55,9 @@ textures/spacetracks_custom/leave01b_back
 textures/spacetracks_custom/leave04c
 {
 	qer_editorImage textures/spacetracks_custom_src/leave04c_d
+	qer_alphaFunc greater 0.5
 	q3map_cloneShader textures/spacetracks_custom/leave04c_back
 	q3map_vertexScale 1.5
-	qer_alphaFunc greater 0.5
 	surfaceparm alphashadow
 	surfaceparm trans
 	surfaceparm nonsolid
@@ -73,9 +73,9 @@ textures/spacetracks_custom/leave04c
 textures/spacetracks_custom/leave04c_back
 {
 	qer_editorImage textures/spacetracks_custom_src/leave04c_d
+	q3map_invert
 	surfaceparm trans
 	surfaceparm nonsolid
-	q3map_invert
 	surfaceparm nomarks
 	{
 		map textures/spacetracks_custom_src/leave04c_d
@@ -88,11 +88,11 @@ textures/spacetracks_custom/leave04c_back
 
 textures/spacetracks_custom/e6basicstrip_red_12k
 {
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	q3map_surfacelight 12000
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -101,11 +101,11 @@ textures/spacetracks_custom/e6basicstrip_red_12k
 
 textures/spacetracks_custom/e6basicstrip_red_2k
 {
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	q3map_surfacelight 2000
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_red_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_red_d
 		rgbGen identity
@@ -127,11 +127,11 @@ textures/spacetracks_custom/e6basicstrip_white_2k
 
 textures/spacetracks_custom/e6basicstrip_white_12k
 {
+	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white_d
 	q3map_surfacelight 12000
 	surfaceparm noimpact
 	surfaceparm nomarks
 	// surfaceparm nolightmap
-	qer_editorImage textures/spacetracks_custom_src/e6basicstrip_white_d
 	{
 		map textures/spacetracks_custom_src/e6basicstrip_white_d
 		rgbGen identity
@@ -143,12 +143,12 @@ textures/spacetracks_custom/e6basicstrip_white_12k
 textures/spacetracks_custom/arealight1
 {
 	qer_editorImage textures/spacetracks_custom_src/e8tinylightblue_d
-	surfaceparm noimpact
-	surfaceparm nomarks
-	// surfaceparm nolightmap
 	q3map_nofast
 	q3map_lightimage textures/spacetracks_custom_src/e8tinylightblue
 	q3map_surfacelight 44
+	surfaceparm noimpact
+	surfaceparm nomarks
+	// surfaceparm nolightmap
 	{
 		map textures/spacetracks_custom_src/e8tinylightblue_d
 		rgbGen identity
@@ -560,9 +560,9 @@ textures/spacetracks_custom/plasma_decal
 
 textures/spacetracks_custom/monitor1
 {
-	// surfaceparm nolightmap
-	q3map_surfacelight 40
 	qer_editorImage textures/spacetracks_custom_src/monitor1_d
+	q3map_surfacelight 40
+	// surfaceparm nolightmap
 	{
 		map textures/spacetracks_custom_src/monitor1_d
 		rgbGen identityLighting
@@ -571,9 +571,9 @@ textures/spacetracks_custom/monitor1
 
 textures/spacetracks_custom/monitor2
 {
-	// surfaceparm nolightmap
-	q3map_surfacelight 40
 	qer_editorImage textures/spacetracks_custom_src/monitor2_d
+	q3map_surfacelight 40
+	// surfaceparm nolightmap
 	{
 		map textures/spacetracks_custom_src/monitor2_d
 		rgbGen identityLighting
@@ -582,8 +582,8 @@ textures/spacetracks_custom/monitor2
 
 textures/spacetracks_custom/tv
 {
-	// surfaceparm nolightmap
 	qer_editorImage textures/spacetracks_custom_src/kztv_ad2_d
+	// surfaceparm nolightmap
 	{
 		animMap 0.8 textures/spacetracks_custom_src/kztv_ad2_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/spacetracks_d textures/spacetracks_custom_src/stannum_blue_d  textures/spacetracks_custom_src/stannum_blue_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/mg_ad1_d textures/spacetracks_custom_src/stannum_blue_d
 		rgbGen identityLighting
@@ -640,9 +640,9 @@ textures/spacetracks_custom/inner_tv
 
 textures/spacetracks_custom/stannum_timetable
 {
-	// surfaceparm nolightmap
-	q3map_surfacelight 90
 	qer_editorImage textures/spacetracks_custom_src/stannum_timetable_d
+	q3map_surfacelight 90
+	// surfaceparm nolightmap
 	{
 		map textures/spacetracks_custom_src/stannum_timetable_d
 		rgbGen identity
@@ -651,9 +651,9 @@ textures/spacetracks_custom/stannum_timetable
 
 textures/spacetracks_custom/stannum_depart1
 {
-	// surfaceparm nolightmap
-	q3map_surfacelight 90
 	qer_editorImage textures/spacetracks_custom_src/stannum_depart1_d
+	q3map_surfacelight 90
+	// surfaceparm nolightmap
 	{
 		map textures/spacetracks_custom_src/stannum_depart1_d
 		rgbGen identity
