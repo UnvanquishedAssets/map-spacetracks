@@ -692,14 +692,24 @@ textures/spacetracks_custom/heli1
 	diffuseMap textures/spacetracks_custom_src/heli1_d
 }
 
-textures/spacetracks_custom/keyboard3
-{	qer_editorImage textures/spacetracks_custom_src/keyboard3_d
-	diffuseMap textures/spacetracks_custom_src/keyboard3_d
-}
-
 textures/spacetracks_custom/controlpanel2
 {	qer_editorImage textures/spacetracks_custom_src/controlpanel2_d
 	diffuseMap textures/spacetracks_custom_src/controlpanel2_d
+}
+
+textures/spacetracks_custom/laptop
+{	qer_editorImage textures/spacetracks_custom_src/laptop_d
+	diffuseMap textures/spacetracks_custom_src/laptop_d
+}
+
+textures/spacetracks_custom/computer_front
+{	qer_editorImage textures/spacetracks_custom_src/computer_front_d
+	diffuseMap textures/spacetracks_custom_src/computer_front_d
+}
+
+textures/spacetracks_custom/keyboard1
+{	qer_editorImage textures/spacetracks_custom_src/keyboard1_d
+	diffuseMap textures/spacetracks_custom_src/keyboard1_d
 }
 
 textures/spacetracks_custom/keyboard2
@@ -707,9 +717,9 @@ textures/spacetracks_custom/keyboard2
 	diffuseMap textures/spacetracks_custom_src/keyboard2_d
 }
 
-textures/spacetracks_custom/laptop
-{	qer_editorImage textures/spacetracks_custom_src/laptop_d
-	diffuseMap textures/spacetracks_custom_src/laptop_d
+textures/spacetracks_custom/keyboard3
+{	qer_editorImage textures/spacetracks_custom_src/keyboard3_d
+	diffuseMap textures/spacetracks_custom_src/keyboard3_d
 }
 
 textures/spacetracks_custom/painting
@@ -722,6 +732,11 @@ textures/spacetracks_custom/contact_spine
 	diffuseMap textures/spacetracks_custom_src/contact_spine_d
 }
 
+textures/spacetracks_custom/perl_spine
+{	qer_editorImage textures/spacetracks_custom_src/perl_spine_d
+	diffuseMap textures/spacetracks_custom_src/perl_spine_d
+}
+
 textures/spacetracks_custom/tremmapping_spine
 {	qer_editorImage textures/spacetracks_custom_src/tremmapping_spine_d
 	diffuseMap textures/spacetracks_custom_src/tremmapping_spine_d
@@ -732,9 +747,9 @@ textures/spacetracks_custom/spine_blue
 	diffuseMap textures/spacetracks_custom_src/spine_blue_d
 }
 
-textures/spacetracks_custom/perl_spine
-{	qer_editorImage textures/spacetracks_custom_src/perl_spine_d
-	diffuseMap textures/spacetracks_custom_src/perl_spine_d
+textures/spacetracks_custom/spine_green
+{	qer_editorImage textures/spacetracks_custom_src/spine_green_d
+	diffuseMap textures/spacetracks_custom_src/spine_green_d
 }
 
 textures/spacetracks_custom/spine_red
@@ -750,21 +765,6 @@ textures/spacetracks_custom/spine_orange
 textures/spacetracks_custom/ircop_manual
 {	qer_editorImage textures/spacetracks_custom_src/ircop_manual_d
 	diffuseMap textures/spacetracks_custom_src/ircop_manual_d
-}
-
-textures/spacetracks_custom/spine_green
-{	qer_editorImage textures/spacetracks_custom_src/spine_green_d
-	diffuseMap textures/spacetracks_custom_src/spine_green_d
-}
-
-textures/spacetracks_custom/computer_front
-{	qer_editorImage textures/spacetracks_custom_src/computer_front_d
-	diffuseMap textures/spacetracks_custom_src/computer_front_d
-}
-
-textures/spacetracks_custom/keyboard1
-{	qer_editorImage textures/spacetracks_custom_src/keyboard1_d
-	diffuseMap textures/spacetracks_custom_src/keyboard1_d
 }
 
 textures/spacetracks_custom/puretrem_admin
