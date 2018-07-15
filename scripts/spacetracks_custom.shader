@@ -707,6 +707,11 @@ textures/spacetracks_custom/keyboard2
 	diffuseMap textures/spacetracks_custom_src/keyboard2_d
 }
 
+textures/spacetracks_custom/laptop
+{	qer_editorImage textures/spacetracks_custom_src/laptop_d
+	diffuseMap textures/spacetracks_custom_src/laptop_d
+}
+
 textures/spacetracks_custom/painting
 {	qer_editorImage textures/spacetracks_custom_src/painting_d
 	diffuseMap textures/spacetracks_custom_src/painting_d
