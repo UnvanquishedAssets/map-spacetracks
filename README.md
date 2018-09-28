@@ -1,7 +1,7 @@
 Spacetracks
 ===========
 
-![Spacetracks levelshot](meta/spacetracks/spacetracks.jpg)
+![Spacetracks levelshot](meta/spacetracks/spacetracks.png)
 
 
 About
