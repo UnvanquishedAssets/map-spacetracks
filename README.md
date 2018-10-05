@@ -19,7 +19,7 @@ Legal
 
 Unless otherwise stated, the content of this package is available under the conditions of the [Creative Commons Attribution-Share Alike 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
 
-Some assets may use other licenses, consult [`about/map-station15.txt`](about/map-station15.txt) for more information about authors and licenses.
+Some assets may use other licenses, consult [`about/map-spacetracks.txt`](about/map-spacetracks.txt) for more information about authors and licenses.
 
 
 Credits
