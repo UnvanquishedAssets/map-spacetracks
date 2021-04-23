@@ -49,9 +49,10 @@
     https://creativecommons.org/licenses/by-sa/3.0/
 
     The following sounds were used from the Freesound project under the
-    CC Sampling Plus 1.0 License:
+    Creative Commons Attribution 3.0 license (http://creativecommons.org/licenses/by/3.0/)
 
     pempi's elevator_motor.wav (elevator2.wav)
+      https://freesound.org/people/pempi/sounds/33873/
 
     The following sounds have been licenced by FisherP under the
     Creative Commons Attribution 3.0 license (http://creativecommons.org/licenses/by/3.0/)
